@@ -4,7 +4,12 @@ const lista =[
     "Criada em uma aula de IA",
     "IA é inteligência artificial",
     "Sou apenas um texto e uma lista de frases",
-    "Que aparece quando você clica em um botão"
+    "Que aparece quando você clica em um botão",
+    "Aproveitam-se da minha nobreza",
+    "Não contavagm com as minhas astúcias",
+    "Sigam-me os bons"
+
+
 ]
 var n = 0;
 function funcao (){

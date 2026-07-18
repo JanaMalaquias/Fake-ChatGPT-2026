@@ -16,6 +16,4 @@ Pagina simples  HTML que simula uma IA
 - 3 Execute o arquivo index.html com live Server 
 
 
-# Fake-ChatGPT-2026
-# Fake-ChatGPT-2026
-# Fake-ChatGPT-2026
+

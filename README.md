@@ -17,3 +17,4 @@ Pagina simples  HTML que simula uma IA
 
 
 # Fake-ChatGPT-2026
+# Fake-ChatGPT-2026

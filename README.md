@@ -1,4 +1,4 @@
-# Fake-ChatGPT-2026
+# Fake-Chat-2026
 
 Pagina simples  HTML que simula uma IA
 
